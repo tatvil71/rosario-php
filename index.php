@@ -14,7 +14,7 @@
 <script src="rezos.js"></script>
 
 <?php   
-    include 'C:\xampp\htdocs\recursos-catolicos\rosario\php\misterios.php' ;
+    include 'misterios.php' ;
     include 'rezos.php' ;  
 ?>
 
